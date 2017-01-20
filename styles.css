@@ -24,3 +24,7 @@ h2 {
 .block-article {
   border-bottom: 1px #999 solid;
 }
+
+#grey-background {
+  background-color: #efefef;
+}
